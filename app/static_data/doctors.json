@@ -1,0 +1,4 @@
+[
+  {"id": 101, "name": "Dr. John", "specialization": "General"},
+  {"id": 102, "name": "Dr. Emily", "specialization": "Orthopedic", "available": false}
+]
