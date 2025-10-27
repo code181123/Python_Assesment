@@ -14,3 +14,9 @@ class Patient:
             "gender": self.gender,
             "ailment": self.ailment
         }
+
+#Sample
+Patients = [
+    Patient(1, "Alice", 29, "F", "Flu"),
+    Patient(2, "Bob", 40, "M", "Fracture")
+]
