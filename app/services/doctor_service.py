@@ -8,6 +8,6 @@ def load_doctors(filepath):
 
 def find_available_doctor(doctors, specialization):
     for d in doctors:
-        if d.specialization == specialization and d.available:
+        if specialization in d.specialization and d.available:
             return d
     return None
