@@ -1,4 +1,6 @@
 [
-  {"id": 1, "name": "Alice", "age": 29, "gender": "F", "ailment": "Flu"},
-  {"id": 2, "name": "Bob", "age": 40, "gender": "M", "ailment": "Fracture"}
+  {"id": 1, "name": "Alice", "age": 29, "gender": "F", "ailment": "Headache"},
+  {"id": 2, "name": "Bob", "age": 40, "gender": "M", "ailment": "Stress"},
+  {"id": 3, "name": "Charlie", "age": 35, "gender": "M", "ailment": "Fever"},
+  {"id": 4, "name": "Diana", "age": 2, "gender": "F", "ailment": "Vaccination"}
 ]
