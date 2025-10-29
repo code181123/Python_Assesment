@@ -1,4 +1,5 @@
 [
-  {"id": 101, "name": "Dr. John", "specialization": "General"},
-  {"id": 102, "name": "Dr. Emily", "specialization": "Orthopedic", "available": false}
+  {"id": 101, "name": "Dr. John", "specialization": ["General", "Pediatrics"]},
+  {"id": 102, "name": "Dr. Emily", "specialization": ["Orthopedic","Dermatology"], "available": false},
+  {"id": 103, "name": "Dr. Sarah", "specialization": ["Dermatology"]}
 ]
