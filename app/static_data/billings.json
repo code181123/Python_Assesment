@@ -1,0 +1,22 @@
+[
+    {
+        "ailment":["Cough","Fever","Headache"],
+        "Specialization": "General",
+        "cost": 200
+    },
+    {
+        "ailment":["Skin Rash","Acne","Eczema"],
+        "Specialization": "Dermatology",
+        "cost": 350
+    },
+    {
+        "ailment":["Anxiety","Depression","Stress"],
+        "Specialization": "Psychiatry",
+        "cost": 400
+    },
+    {
+        "ailment":["Childhood Illnesses","Vaccinations","Growth Issues"],
+        "Specialization": "Pediatrics",
+        "cost": 450
+    }
+]
